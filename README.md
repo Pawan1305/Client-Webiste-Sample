@@ -1,4 +1,4 @@
-# 👑 Vijay Canteen — Premium Food E-Commerce (MERN)
+# 👑 Premium Food E-Commerce (MERN)
 
 A royal-looking, feature-complete food ordering website with Admin Panel, built with the MERN stack.
 
